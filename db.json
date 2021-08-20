@@ -1,11 +1,7 @@
-{
-  "Version": "2.0",
-  "StatusCode": 200,
-  "Result": [
+[
     {
       "hasCredit": true,
       "userID": 1414,
       "username": "mgphall"
     }
   ]
-}
