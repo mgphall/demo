@@ -1,9 +1,28 @@
 {
   "users": [
     {
-      "hasCredit": 1,
-      "UserID": 1,
-      "UserName": "mgphall",
+      "userId": 1,
+      "id": 1,
+      "title": "delectus aut autem",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "title": "delectus aut autem",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "title": "delectus aut autem",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 4,
+      "title": "delectus aut autem",
+      "completed": false
     }
   ]
 }
