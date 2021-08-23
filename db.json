@@ -1,12 +1,12 @@
 {
   "Result": [
     {
-      "hasCredit": true,
+      "hasCredit": false,
       "userID": 1414,
       "username": "mgphall"
     },
     {
-      "hasCredit": false,
+      "hasCredit": true,
       "userID": 1415,
       "username": "test"
     }
