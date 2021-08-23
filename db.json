@@ -1,7 +1,7 @@
 {
   "Result": [
     {
-      "hasCredit": false,
+      "hasCredit": true,
       "userID": 1414,
       "username": "mgphall"
     },
