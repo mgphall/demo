@@ -1,14 +1,12 @@
 {
-  "Result": [
-    {
-      "hasCredit": true,
-      "userID": 1414,
-      "username": "mgphall"
-    },
-    {
-      "hasCredit": false,
-      "userID": 1415,
-      "username": "test"
+ "Result": {
+    "users": {
+      "baz": {
+        "hasCredit": false
+      },
+      "mgphall": {
+        "hasCredit": true
+      }
     }
-  ]
+  }
 }
