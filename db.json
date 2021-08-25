@@ -1,12 +1,16 @@
 {
- "Result": {
-    "users": {
-      "baz": {
+"Result": [
+    {
+      "nickname": "baz",
+      "userDetails": {
         "hasCredit": false
-      },
-      "mgphall": {
+      }
+    },
+    {
+      "nickname": "mgphall",
+      "userDetails": {
         "hasCredit": true
       }
     }
-  }
+ ]
 }
