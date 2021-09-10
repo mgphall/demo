@@ -1,16 +1,1 @@
-{
-"Result": [
-    {
-      "nickname": "baz",
-      "userDetails": {
-        "hasCredit": false
-      }
-    },
-    {
-      "nickname": "mgphall",
-      "userDetails": {
-        "hasCredit": true
-      }
-    }
- ]
-}
+{"name":"John", "age":30, "car":null}
